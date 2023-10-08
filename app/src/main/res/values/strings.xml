@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Badminton</string>
+    <string name="tools_ignore_quot_contentdescription_quot">tools:ignore=\"ContentDescription\"</string>
+</resources>
